@@ -2,11 +2,10 @@
 title: Random Ramblings
 desctiption: Random Ramblings about computing.
 url: 'http://sarvex.github.io'
-baseurl: '/blog' #change it according to your repository name
 permalink: ':title/'
 
 markdown: kramdown
-baseurl: "/karna"
+baseurl: "/blog"
 
 
 sass:
